@@ -1,0 +1,12 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: serif;
+    background-color: #fff;
+    color:#222;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
